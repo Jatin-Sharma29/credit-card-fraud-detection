@@ -225,6 +225,7 @@ Some possible extensions of this project include:
 
 ## Author
 
-**Jatin Sharma**
+**Jatin Sharma** \
+**Anirudh Gupta**
 
 If you have suggestions or improvements, feel free to open an issue or submit a pull request.
